@@ -8,5 +8,5 @@
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Know more about me from [My Tech Portfolio](https://md-hussain28.github.io/MyTechPortfolio/).
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
 
