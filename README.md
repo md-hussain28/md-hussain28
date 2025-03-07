@@ -1,6 +1,10 @@
-# MD Saquib Hussain's GitHub Profile
 
-## 👋 Hi, I'm MD Saquib Hussain
+## 👋 Hi, I'm Md Saquib Hussain
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;AI+Driven+Solutions;Competitive+Programming+Specialist" alt="Typing Animation" />
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=md-hussain28&color=20C20E&style=for-the-badge&label=PROFILE+VISITS)  
+
 
 | <div align="center"></div> | <div align="center"></div> |
 |--------------------------------------------|---------------------------------------------|
@@ -9,4 +13,3 @@
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
-
